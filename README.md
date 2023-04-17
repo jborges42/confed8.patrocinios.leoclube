@@ -1,1 +1,1 @@
-# cdn.confed8.patrocinios.leoclube
+# confed8.patrocinios.leoclube
